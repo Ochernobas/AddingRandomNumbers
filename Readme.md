@@ -1,7 +1,5 @@
 =======================================================================================
 
-(English down)
-
 OLÁ, meu nome é Rafael Soares, sou aluno do curso de informática do Instituto Federal Fluminense (IFF), campus Itaperuna.
 
 Esse projeto, é para responder a uma pergunta "Somar números aleatórios, aumenta a aleatoriedade ?", e a resposta é "Não!", quanto mais números são somados, menos aleatório fica o resultado, formando uma parábola, com seu vértice localizado aproximadamente no meio da tela.
