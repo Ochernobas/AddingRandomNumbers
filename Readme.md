@@ -1,4 +1,4 @@
-===================================================================================================================================================================================
+=============================================================================
 (English down)
 
 OLÁ, meu nome é Rafael Soares, sou aluno do curso de informática do Instituto Federal Fluminense (IFF), campus Itaperuna.
@@ -9,7 +9,7 @@ O projeto se consiste de um número de ProgressBars, que recebem 1 de valor, sem
 
 A ideia do projeto vem do vídeo "Somar dois números aleatórios aumenta a aleatoriedade ?", do canal "Universo Programado", link :(https://www.youtube.com/watch?v=j50_3TCguls)
 
-===================================================================================================================================================================================
+============================================================================
 
 Hey! My name is Rafael Soares, and i'm a student from the "Instituto Federal Fluminense" (IFF) Itaperuna campus.
 
@@ -19,4 +19,4 @@ This project is made of a number of ProgressBar nodes, that are randomly chosen 
 
 The idea behind the project, is from the video "Somar dois números aleatórios aumenta a aleatoriedade ?", of the channel "Universo Programado", link: (https://www.youtube.com/watch?v=j50_3TCguls)
 
-===================================================================================================================================================================================
+============================================================================
